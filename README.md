@@ -1,2 +1,2 @@
 # Projects
-Collection of DIfferent Projects I have worked so far
+Collection of different projects I have worked so far. 
